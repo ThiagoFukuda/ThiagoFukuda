@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Presbite
 - 📊 Aprendo testando e aperfeiçoando para que saia como eu quero.
 - 🔍 Sempre curioso para entender como as coisas funcionam.
 
-## Projetos
+## Projeto
 
 Aqui esta o projeto mais recentes:
 
